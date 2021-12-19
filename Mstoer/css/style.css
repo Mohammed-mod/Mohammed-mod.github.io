@@ -233,6 +233,7 @@ small {
   width: 180px;
   margin-bottom: 20px;
   margin-right: 140px;
+  padding-left: 50px;
 }
 
 .footer-col3 {
@@ -582,12 +583,14 @@ form a {
 
   .footer p {
     color: #8a8a8a;
-    margin-right: 50px;
+    margin-left: 19px;
+    padding-right: 10px;
   }
 
   .footer-col2 img {
     width: 180px;
     margin-bottom: 20px;
     margin-right: 5px;
+    padding-left: 50px;
   }
 }
